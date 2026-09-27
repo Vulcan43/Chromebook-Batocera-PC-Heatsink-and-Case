@@ -19,7 +19,7 @@ The cheapest I found was PCBway fell free to use a cheaper option if you can fin
 | Item | Quantity | Cost | Supplier | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **Heatsink** | 1 | 72 | PCBWay | Moves heat away from 80 degrees celcus cpu |
-| **3d Prints** | 1 | Filament | 3D printer | Case |
+| **3d Prints** | 1 | 30 | 3D printer | Case |
 | **Thermal Paste** | 1 | 7 | AliExpress | Helps with heat moving to heatsink and cpu |
 | **Fans** | 1 | 8 | AliExpress | Airflow in case |
 | **LEDs** | 1 | 6 | AliExpress | Makes the design more finished and look better |
